@@ -1,0 +1,23 @@
+Computer basics for programming are the fundamental concepts and principles that you need to know in order to understand and write computer programs. They include:
+* Data representation
+* Algorithms
+* Data structures
+* Programming languages
+* Compilers and interpreters
+* Operating systems
+* Networking
+* Databases
+* Security
+Data representation is the way that data is stored in a computer. There are two main types of data representation:
+* Numerical data is represented using numbers.
+* Non-numerical data is represented using text, images, or sounds.
+Algorithms are a sequence of steps that are used to solve a problem. Algorithms are the heart of computer programming.
+Data structures are used to store and organize data. There are many different types of data structures, such as arrays, lists, and trees.
+Programming languages are used to write computer programs. There are many different programming languages, such as Java, Python, and C++.
+Compilers and interpreters are programs that translate programming languages into machine code. Machine code is the language that the computer understands.
+Operating systems are the software that controls the computer. Operating systems are responsible for managing the computer's resources, such as memory and processing power.
+Networking is the way that computers communicate with each other. Networks allow computers to share data and resources.
+Databases are used to store large amounts of data. Databases are organized in a way that makes it easy to find and retrieve data.
+Security is the protection of computer systems from unauthorized access, use, disclosure, disruption, modification, or destruction. Security is an important aspect of computer programming.
+These are just some of the computer basics for programming. There are many other concepts that you need to know in order to become a proficient computer programmer.
+
